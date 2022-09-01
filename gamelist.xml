@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./astron.daphne</path>
+    <name>Astron Belt</name>
+    <thumbnail />
+    <image>./media/screenshots/astron.png</image>
+    <marquee>./media/marquees/astron.png</marquee>
+    <video>./media/videos/astron.mp4</video>
+    <rating>0.6</rating>
+    <desc>In Astron Belt, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien planets, through tunnels, through trenches, and get involved in a few astro-dogfights with enemy space fighters</desc>
+    <releasedate>19830710T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter / Plane, 1st person, Shooter, Shoot&apos;em Up</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./cliff.daphne</path>
+    <name>Cliff Hanger</name>
+    <thumbnail />
+    <image>./media/screenshots/cliff.png</image>
+    <marquee>./media/marquees/cliff.png</marquee>
+    <video>./media/videos/cliff.mp4</video>
+    <rating>0.9</rating>
+    <desc>Cliff is on a mission to save Clarissa from being forced to marry the evil Count Draco. Cliff Hanger is an interactive cartoon movie. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie. The anime video used in the game are scenes from the Lupin III anime movies, mainly scenes from The Castle of Cagliostro and the Mystery of Mamo animated movies. Cliff in the game is Arsène Lupin III in the original anime.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Stern Electronics, Inc.</developer>
+    <publisher>Stern Electronics</publisher>
+    <genre>Platform / Run Jump, Platform</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>./cobraab.daphne</path>
+    <name>Cobra Command</name>
+    <thumbnail />
+    <image>./media/screenshots/cobraab.png</image>
+    <marquee>./media/marquees/cobraab.png</marquee>
+    <video>./media/videos/cobraab.mp4</video>
+    <rating>0.75</rating>
+    <desc>Mission... You have been ordered to get rid of a terrorist group which is committing crimes all over the world. Piloting your ultra-modern Jet Helicopter you have to confront your enemies. Carry out your mission!
+
+You command a fully armed helicopter and must take on enemy helicopters, planes, tanks, and ships in order to destroy their stronghold on an area. Your missions take you though the forest, in the canyons, through the desert ruins, out to the pacific ocean, and right though New York City.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Data East</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./dle21.daphne</path>
+    <name>Dragon&apos;s Lair</name>
+    <thumbnail />
+    <image>./media/screenshots/dle21.png</image>
+    <marquee>./media/marquees/dle21.png</marquee>
+    <video>./media/videos/dle21.mp4</video>
+    <rating>0.8</rating>
+    <desc>Originally released in the arcades as a laserdisc game, Dragon&apos;s Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
+    <releasedate>19830601T000000</releasedate>
+    <developer>Sullivan Bluth Interactive</developer>
+    <publisher>Cinematronics</publisher>
+    <genre>Action, Action / Adventure, Platform / Run Jump, Platform</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./lair2.daphne</path>
+    <name>Dragon&apos;s Lair 2 - Time Warp</name>
+    <thumbnail />
+    <image>./media/screenshots/lair2.png</image>
+    <marquee>./media/marquees/lair2.png</marquee>
+    <video>./media/videos/lair2.mp4</video>
+    <rating>0.9</rating>
+    <desc>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne&apos;s finger in marriage and she will be lost forever in the Time Warp!</desc>
+    <releasedate>19910616T000000</releasedate>
+    <developer>Sullivan Bluth Interactive</developer>
+    <publisher>Leland Corporation</publisher>
+    <genre>Action, Action / Adventure, Platform / Run Jump, Platform</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./esh.daphne</path>
+    <name>Esh&apos;s Aurunmilla</name>
+    <thumbnail />
+    <image>./media/screenshots/esh.png</image>
+    <marquee>./media/marquees/esh.png</marquee>
+    <video>./media/videos/esh.mp4</video>
+    <rating>0.7</rating>
+    <desc>In Esh&apos;s Aurunmilla, you are the hero Don Davis. Emperor Esh, who is trying to take over the Universe Orion, has kidnapped princess Sindy. It is your job to rescue Princess Sindy from the evil Emperor Esh. Armed with only a sword, you must fight your way through the obstacles to rescue the princess and save the universe!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Funai</developer>
+    <publisher>Funai/Gakken</publisher>
+    <genre>Platform / Run Jump, Platform</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>./galaxy.daphne</path>
+    <name>Galaxy Ranger</name>
+    <thumbnail />
+    <image>./media/screenshots/galaxy.png</image>
+    <marquee>./media/marquees/galaxy.png</marquee>
+    <video>./media/videos/galaxy.mp4</video>
+    <rating>0.5</rating>
+    <desc>Fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser. Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few &quot;astro-dogfights&quot; with enemy space fighters.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter / Plane, 1st person, Shooter</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>./gpworld.daphne</path>
+    <name>Gp World</name>
+    <thumbnail />
+    <image>./media/screenshots/gpworld.png</image>
+    <marquee>./media/marquees/gpworld.png</marquee>
+    <video>./media/videos/gpworld.mp4</video>
+    <rating>0.4</rating>
+    <desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.
+It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.
+But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot&apos;em up, which changes a bit.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Race 1st Pers. view, Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>./interstellar.daphne</path>
+    <name>Interstellar Laser Fantasy</name>
+    <thumbnail />
+    <image>./media/screenshots/interstellar.png</image>
+    <marquee>./media/marquees/interstellar.png</marquee>
+    <video>./media/videos/interstellar.mp4</video>
+    <rating>0.5</rating>
+    <desc>In Interstellar Laser Fantasy, your mission is to fly to distant worlds battling alien spaceships and destroying alien bases. Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Funai</developer>
+    <publisher>Funai/Gakken</publisher>
+    <genre>Race, Driving, Shooter, Race 1st Pers. view</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./mach3.daphne</path>
+    <name>M.a.c.h. 3</name>
+    <thumbnail />
+    <image>./media/screenshots/mach3.png</image>
+    <marquee>./media/marquees/mach3.png</marquee>
+    <video>./media/videos/mach3.mp4</video>
+    <rating>0.9</rating>
+    <desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Mylstar</developer>
+    <publisher>Mylstar</publisher>
+    <genre>Shooter, Shooter / Plane, 3rd person, Shoot&apos;em Up</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./sae.daphne</path>
+    <name>Space Ace</name>
+    <thumbnail />
+    <image>./media/screenshots/sae.png</image>
+    <marquee>./media/marquees/sae.png</marquee>
+    <video>./media/videos/sae.mp4</video>
+    <rating>0.9</rating>
+    <desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon&apos;s Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc.
+
+The gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero&apos;s actions. However, the game&apos;s action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.</desc>
+    <releasedate>19840424T000000</releasedate>
+    <developer>Advanced Microcomputer Systems</developer>
+    <publisher>Cinematronics</publisher>
+    <genre>Platform / Run Jump, Platform, Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>./sdq.daphne</path>
+    <name>Super Don Quix-ote</name>
+    <thumbnail />
+    <image>./media/screenshots/sdq.png</image>
+    <marquee />
+    <video>./media/videos/sdq.mp4</video>
+    <rating>0.8</rating>
+    <desc>The idea for this animated laserdisc game comes from the movies and novels about Don Quixote, the legendary Spanish knight. In this game, the character looks very young and does not have a mustache. Also, he has a sword for a weapon and his faithful sidekick Sancho Panza follows him around although he does nothing to assist the hero.
+An assortment of mythical creatures including demons, dragons, skeletons and so on are encountered throughout the game. The game ends when Don Quixote kills the evil witch and rescues Isabella.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher />
+    <genre>Adventure</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+	<game>
+		<path>./titanae.daphne</path>
+		<name>titan AE HD (LETTERBOX)</name>
+		<desc>In 3028 AD, humanity has developed deep-space travel. An experimental discovery called Project Titan has caused the Drej, a malevolent, energy-based species, to become alarmed. Fearing humans will become the dominant species in the galaxy, the Drej declare war on humanity. As the Drej are about to destroy Earth, Professor Sam Tucker (Ron Perlman), the lead researcher for Project Titan, gives his son, Cale (Alex D. Linz), a ring and sends Cale on one of the evacuation ships with his alien friend, Tek (Tone Loc). Meanwhile, Sam and other members of his team fly the Titan spacecraft from Earth and into Hyperspace. Earth is destroyed, and the remainder of the humans become drifters, generally ridiculed by other speci</desc>
+		<image>./media/screenshots/titanae.png</image>
+		<video>./media/videos/Titan_AE.mp4</video>
+		<marquee>./media/marquees/titanwheel.png</marquee>
+		<favorite>true</favorite>
+		<playcount>7</playcount>
+		<lastplayed>20211202T015025</lastplayed>
+	</game>
+  <game>
+    <path>./tq.daphne</path>
+    <name>Thayer&apos;s Quest</name>
+    <thumbnail />
+    <image>./media/screenshots/tq.png</image>
+    <marquee>./media/marquees/tq.png</marquee>
+    <video>./media/videos/tq.mp4</video>
+    <rating>0.7</rating>
+    <desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer&apos;s adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand&apos;s power to take control of the land.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>RDI Video Systems</developer>
+    <publisher>RDI Video Systems</publisher>
+    <genre>Platform / Run Jump, Platform</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./uvt.daphne</path>
+    <name>Us Vs Them</name>
+    <thumbnail />
+    <image>./media/screenshots/uvt.png</image>
+    <marquee>./media/marquees/uvt.png</marquee>
+    <video>./media/videos/uvt.mp4</video>
+    <rating>0.4</rating>
+    <desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it&apos;s not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics.
+Us vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Mylstar</developer>
+    <publisher>Mylstar</publisher>
+    <genre>Shooter / Plane, 3rd person, Shooter, Shoot&apos;em Up</genre>
+    <players>1</players>
+  </game>
+</gameList>
